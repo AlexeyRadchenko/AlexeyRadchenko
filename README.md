@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexeyRadchenko
 - 👀 I’m interested in Python, Golang, Javascript
-- 🌱 I’m currently learning somthing new
+- 🌱 I’m currently learning something new
 - 📫 bers.wrx@gmail.com
 
 <!---
